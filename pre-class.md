@@ -6,7 +6,7 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 | Step | Time | What you do |
 |---|---|---|
-| **0. Watch** | ~5 min  | Watch the [lesson intro video](https://youtu.be/WasU-87LgfA) |
+| **0. Watch** | ~5 min  | Watch the [lesson intro video](https://youtu.be/jBGYGwABXeQ) |
 | **1. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
 | **2. Reflect** | ~5 min  | Three short questions below |
 
@@ -14,7 +14,7 @@ This is the simplest version of "show up prepared": watch a short intro, run one
 
 ## Step 0 — Watch the intro video (~5 min)
 
-▶️ **[L08 Intro — Computer Vision & CNNs](https://youtu.be/WasU-87LgfA)**
+▶️ **[L08 How AI learn to see](https://youtu.be/jBGYGwABXeQ)**
 
 A short orientation to the week: why images break the flattened-features approach from L07, and what Sarah is about to build for Marcus's product-photo auto-tagging request. Watch it before opening the notebook.
 
